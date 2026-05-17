@@ -11,8 +11,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrrish27&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/amrrish27?label=Followers&style=for-the-badge&color=8b5cf6" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Products-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-24%2F7-cyan?style=for-the-badge" />
 </p>
 
 </div>
