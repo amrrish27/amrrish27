@@ -8,7 +8,7 @@
 
 ### AI Engineer • Builder • Future Tech Explorer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Systems;Creating+Products+That+Feel+Ahead+Of+Their+Time;Full-Stack+Developer;AI+%2B+Automation+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI+Systems;Shipping+Real+Products;Future+Tech+Explorer;Full-Stack+Developer" />
 
 <br>
 
@@ -88,13 +88,11 @@ I enjoy building **AI-powered software, intelligent systems, automation tools, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
-
----
 
 ## 📈 Contribution Graph
 
