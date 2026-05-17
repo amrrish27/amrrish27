@@ -4,7 +4,7 @@
 
 ### Building insane AI products before most people even start.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=9D7BFF&center=true&vCenter=true&width=700&lines=AI+Builder;Full-Stack+Developer;Roblox+Game+Creator;Future+Startup+Founder;Shipping+Crazy+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=9D7BFF&center=true&vCenter=true&width=900&lines=Building+AI+Products+Before+Most+People+Start;Founder+Mindset+%2B+Developer+Execution;Shipping+FutureTech+Projects;Creating+Things+10+Years+Ahead" />
 
 <br>
 
