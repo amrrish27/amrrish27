@@ -70,8 +70,8 @@ I enjoy building **AI-powered software, intelligent systems, automation tools, a
 
 <div align="center">
 
-<a href="https://github.com/amrrish27/futureverse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrrish27&repo=futureverse&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/amrrish27/FutureVerse">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrrish27&repo=FutureVerse&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/amrrish27/sales-nova-ai">
@@ -83,8 +83,6 @@ I enjoy building **AI-powered software, intelligent systems, automation tools, a
 </a>
 
 </div>
-
----
 
 ## 📊 GitHub Analytics
 
