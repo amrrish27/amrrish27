@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=260&section=header&text=AMRRISH%20ROSHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Products%20Before%20Most%20People%20Start&descAlignY=58"/>
+</p>
+
 <div align="center">
 
 # ⚡ Amrrish Roshan
@@ -11,6 +15,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrrish27&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/amrrish27?label=Followers&style=for-the-badge&color=8b5cf6" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Products-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-24%2F7-cyan?style=for-the-badge" />
 </p>
 
 </div>
@@ -21,14 +27,14 @@
 
 I'm building **AI-first products, autonomous systems, and futuristic software**.
 
-Currently building:
+### Currently focused on:
 
 🧠 AI products  
 🤖 Autonomous agents  
 🌌 Future simulation systems  
 📈 AI business tools  
 🎮 Roblox experiences  
-⚡ Full-stack software
+⚡ Full-stack software engineering
 
 I love building products that feel **10 years ahead**.
 
@@ -67,16 +73,16 @@ I love building products that feel **10 years ahead**.
 # 🔥 Featured Projects
 
 ## 🩺 Aura Health
-**AI-powered health prediction system**
+**AI-powered health prediction platform**
 
-Predict health risks before symptoms appear using behavioral and health intelligence.
+Predict health risks before symptoms appear using behavioral intelligence.
 
 ---
 
 ## 🚀 Sellora AI
 **The AI sales employee that never sleeps**
 
-AI sales assistant that qualifies leads, handles objections, and boosts conversions.
+Autonomous AI sales system that qualifies leads, handles objections, and boosts conversions.
 
 ---
 
@@ -88,12 +94,12 @@ Parallel future simulation engine powered by behavioral intelligence and probabi
 ---
 
 ## 🤖 AI Agents
-Building autonomous AI systems and assistants.
+Building autonomous assistants and advanced intelligent systems.
 
 ---
 
-## 🎮 Roblox Projects
-Creating unique Roblox systems, mechanics, and gameplay experiences.
+## 🎮 Roblox Experiences
+Creating unique mechanics, systems, and AI-powered gameplay.
 
 ---
 
@@ -106,6 +112,14 @@ Creating unique Roblox systems, mechanics, and gameplay experiences.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrrish27&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
 
 ---
 
@@ -128,11 +142,25 @@ Creating unique Roblox systems, mechanics, and gameplay experiences.
 </div>
 
 ---
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrrish27&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
-</p>
+# 🚧 Currently Building
+
+### 🩺 Aura Health
+AI-powered health prediction system that identifies risks before symptoms appear.
+
+### 🚀 Sellora AI
+Autonomous AI sales employee for businesses.
+
+### ⏳ ChronoMind AI
+Future simulation platform for exploring parallel life outcomes.
+
+### 🤖 AI Agents
+Intelligent autonomous assistants and workflows.
+
+### 🎮 Roblox Systems
+Unique mechanics, automation, and gameplay systems.
+
+---
 
 # ⚡ Current Mission
 
@@ -144,6 +172,6 @@ Creating unique Roblox systems, mechanics, and gameplay experiences.
 
 <div align="center">
 
-### ⚔️ Building. Learning. Shipping.
+### ⚔️ Building • Learning • Shipping
 
 </div>
