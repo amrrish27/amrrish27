@@ -4,18 +4,12 @@
 
 <div align="center">
 
-# ⚡ Amrrish Roshan
-
-### AI Engineer • Builder • Future Tech Explorer
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+AI+Systems;Shipping+Real+Products;Future+Tech+Explorer;Full-Stack+Developer" />
 
-<br>
+<br><br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amrrish27&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/amrrish27?label=Followers&style=for-the-badge&color=06B6D4" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=amrrish27&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/amrrish27?label=Followers&style=for-the-badge&color=06B6D4" />
 
 </div>
 
@@ -23,9 +17,9 @@
 
 ## 🚀 About Me
 
-I enjoy building **AI-powered software, intelligent systems, automation tools, and futuristic products**.
+I enjoy building **AI-powered software, automation systems, intelligent tools, and futuristic products**.
 
-**Current interests**
+### Interests
 
 🧠 Artificial Intelligence  
 ⚡ Full-Stack Development  
@@ -37,11 +31,9 @@ I enjoy building **AI-powered software, intelligent systems, automation tools, a
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amrrish27&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amrrish27&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -68,31 +60,29 @@ I enjoy building **AI-powered software, intelligent systems, automation tools, a
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amrrish27&repo=FutureVerse&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://github.com/amrrish27/FutureVerse">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrrish27&repo=FutureVerse&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amrrish27&repo=sales-nova-ai&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://github.com/amrrish27/sales-nova-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrrish27&repo=sales-nova-ai&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=amrrish27&repo=Aura-Health&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://github.com/amrrish27/Aura-Health">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amrrish27&repo=Aura-Health&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-</div>
+---
 
 ## 📈 Contribution Graph
 
@@ -104,27 +94,23 @@ I enjoy building **AI-powered software, intelligent systems, automation tools, a
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amrrish27&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amrrish27&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
 ## ⚡ Philosophy
 
-> Build products that solve real problems, feel futuristic, and push limits.
+> Build things that solve real problems, feel futuristic, and push limits.
 
 ---
 
