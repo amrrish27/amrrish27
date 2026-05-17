@@ -1,22 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=260&section=header&text=AMRRISH%20ROSHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20Products%20Before%20Most%20People%20Start&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=260&section=header&text=AMRRISH%20ROSHAN&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Builder%20•%20Founder%20Mindset&descAlignY=58"/>
 </p>
 
 <div align="center">
 
 # ⚡ Amrrish Roshan
 
-### Building insane AI products before most people even start.
+### AI Engineer • Full-Stack Builder • Future Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&pause=1000&color=9D7BFF&center=true&vCenter=true&width=900&lines=Building+AI+Products+Before+Most+People+Start;Founder+Mindset+%2B+Developer+Execution;Shipping+FutureTech+Projects;Creating+Things+10+Years+Ahead" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1200&color=9D7BFF&center=true&vCenter=true&width=850&lines=Building+AI+Systems;Creating+Products+That+Feel+Ahead+Of+Their+Time;Full-Stack+Developer;AI+%2B+Automation+Explorer" />
 
 <br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amrrish27&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/amrrish27?label=Followers&style=for-the-badge&color=8b5cf6" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Products-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-24%2F7-cyan?style=for-the-badge" />
 </p>
 
 </div>
@@ -25,18 +23,16 @@
 
 # 🚀 About Me
 
-I'm building **AI-first products, autonomous systems, and futuristic software**.
+I enjoy building **AI-powered software, intelligent systems, automation tools, and futuristic products**.
 
-### Currently focused on:
+### Interests
 
-🧠 AI products  
-🤖 Autonomous agents  
-🌌 Future simulation systems  
-📈 AI business tools  
-🎮 Roblox experiences  
-⚡ Full-stack software engineering
-
-I love building products that feel **10 years ahead**.
+🧠 Artificial Intelligence  
+⚡ Full-Stack Development  
+🤖 AI Agents & Automation  
+🌌 Future Simulation Systems  
+📈 AI Business Products  
+🎮 Roblox Development
 
 ---
 
@@ -58,6 +54,7 @@ I love building products that feel **10 years ahead**.
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
 
 ### Frameworks & Tools
 
@@ -70,36 +67,22 @@ I love building products that feel **10 years ahead**.
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-## 🩺 Aura Health
-**AI-powered health prediction platform**
+### 🩺 Aura Health
+AI-powered health intelligence platform focused on early prediction and prevention.
 
-Predict health risks before symptoms appear using behavioral intelligence.
+### 🚀 Sellora AI
+AI sales employee that qualifies leads, handles objections, and improves conversions.
 
----
+### ⏳ ChronoMind AI
+Future simulation platform for exploring multiple life outcomes through decisions and habits.
 
-## 🚀 Sellora AI
-**The AI sales employee that never sleeps**
+### 🤖 AI Agents
+Experiments with autonomous systems, automation, and intelligent workflows.
 
-Autonomous AI sales system that qualifies leads, handles objections, and boosts conversions.
-
----
-
-## ⏳ ChronoMind AI
-**See the futures you haven't lived yet**
-
-Parallel future simulation engine powered by behavioral intelligence and probability.
-
----
-
-## 🤖 AI Agents
-Building autonomous assistants and advanced intelligent systems.
-
----
-
-## 🎮 Roblox Experiences
-Creating unique mechanics, systems, and AI-powered gameplay.
+### 🎮 Roblox Projects
+Custom gameplay systems, mechanics, scripting, and automation.
 
 ---
 
@@ -107,9 +90,9 @@ Creating unique mechanics, systems, and AI-powered gameplay.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -143,35 +126,14 @@ Creating unique mechanics, systems, and AI-powered gameplay.
 
 ---
 
-# 🚧 Currently Building
+# ⚡ Philosophy
 
-### 🩺 Aura Health
-AI-powered health prediction system that identifies risks before symptoms appear.
-
-### 🚀 Sellora AI
-Autonomous AI sales employee for businesses.
-
-### ⏳ ChronoMind AI
-Future simulation platform for exploring parallel life outcomes.
-
-### 🤖 AI Agents
-Intelligent autonomous assistants and workflows.
-
-### 🎮 Roblox Systems
-Unique mechanics, automation, and gameplay systems.
-
----
-
-# ⚡ Current Mission
-
-> Build products so good that people ask:
-
-# **"Wait... one person built this?"**
+> Build things that solve real problems, feel futuristic, and push limits.
 
 ---
 
 <div align="center">
 
-### ⚔️ Building • Learning • Shipping
+### ⚔️ Learn • Build • Ship
 
 </div>
