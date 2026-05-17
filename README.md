@@ -79,10 +79,8 @@ I enjoy building **AI-powered software, automation systems, intelligent tools, a
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=plpgsql,html,css" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
