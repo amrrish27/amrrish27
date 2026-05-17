@@ -130,6 +130,11 @@ Creating unique Roblox systems, mechanics, and gameplay experiences.
 </div>
 
 ---
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amrrish27&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+</p>
 
 # ⚡ Current Mission
 
