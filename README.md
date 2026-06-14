@@ -110,6 +110,11 @@ Health-focused application designed to improve wellness and user engagement.
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 # 📈 Current Focus
 
