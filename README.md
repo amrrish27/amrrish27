@@ -1,8 +1,8 @@
 <div align="center">
 
-## `01 / DEVELOPER WORKSTATION`
+## `01 / SYSTEM CONSOLE`
 
-<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — Kali developer workstation" />
+<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — Kali system console" />
 
 <br />
 
