@@ -1,19 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-labelledby="title desc">
-<title id="title">Amrrish Roshan cyberpunk terminal footer</title>
-<desc id="desc">Animated neon terminal footer for a cybersecurity and software engineering profile.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="210" viewBox="0 0 1400 210" role="img" aria-labelledby="t d">
+<title id="t">Animated cyberpunk developer footer</title><desc id="d">Colorful animated developer workstation footer.</desc>
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05000f"/><stop offset=".5" stop-color="#001a24"/><stop offset="1" stop-color="#160019"/></linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00ff9d"/><stop offset=".5" stop-color="#00e5ff"/><stop offset="1" stop-color="#ff36f4"/></linearGradient>
-  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#7c3aed" stroke-opacity=".10"/></pattern>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#12062b"/><stop offset="1" stop-color="#041c24"/></linearGradient>
+ <linearGradient id="line" x1="0" x2="1"><stop stop-color="#00f5ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff36d6"/></linearGradient>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#7dd3fc" stroke-opacity=".08"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="170" rx="20" fill="url(#bg)"/><rect width="1200" height="170" rx="20" fill="url(#grid)"/>
-<rect x="2" y="2" width="1196" height="166" rx="18" fill="none" stroke="url(#line)" stroke-opacity=".75"/>
-<rect x="24" y="20" width="1152" height="44" rx="12" fill="#0b1020" stroke="#00e5ff" stroke-opacity=".22"/>
-<circle cx="45" cy="42" r="5" fill="#ff4d67"/><circle cx="63" cy="42" r="5" fill="#ffd166"/><circle cx="81" cy="42" r="5" fill="#00ff9d"/>
-<text x="105" y="47" fill="#77889b" font-family="ui-monospace,monospace" font-size="12">amrrish@kali: ~/profile</text>
-<text x="24" y="94" fill="#00ff9d" font-family="ui-monospace,monospace" font-size="13">$ ./close-session</text><text x="185" y="94" fill="#d6e0eb" font-family="ui-monospace,monospace" font-size="13">knowledge synced</text><text x="382" y="94" fill="#00e5ff" font-family="ui-monospace,monospace" font-size="13">•</text><text x="400" y="94" fill="#d6e0eb" font-family="ui-monospace,monospace" font-size="13">attack surface reviewed</text><text x="640" y="94" fill="#ff36f4" font-family="ui-monospace,monospace" font-size="13">•</text><text x="658" y="94" fill="#d6e0eb" font-family="ui-monospace,monospace" font-size="13">next mission queued</text>
-<text x="24" y="131" fill="#00ff9d" font-family="ui-monospace,monospace" font-size="13">$ echo</text><text x="95" y="131" fill="#ffffff" font-family="ui-monospace,monospace" font-size="16" font-weight="700" letter-spacing="2">BUILD · BREAK · DEBUG · SECURE · SHIP</text>
-<text x="1175" y="131" text-anchor="end" fill="#00e5ff" font-family="ui-monospace,monospace" font-size="10" filter="url(#glow)">● CHANNEL ENCRYPTED</text>
-<rect x="24" y="149" width="1152" height="2" fill="url(#line)"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></rect>
+<rect width="1400" height="210" rx="24" fill="url(#bg)"/><rect width="1400" height="210" rx="24" fill="url(#grid)"/>
+<rect x="2" y="2" width="1396" height="206" rx="22" fill="none" stroke="url(#line)" stroke-opacity=".8"/>
+<path d="M0 42H1400" stroke="#8b5cf6" stroke-opacity=".18"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+ <circle cx="34" cy="22" r="5" fill="#ff5f57"/><circle cx="52" cy="22" r="5" fill="#febc2e"/><circle cx="70" cy="22" r="5" fill="#28c840"/>
+ <text x="96" y="27" fill="#8ea0b7" font-size="11">amrrish@kali: ~/workspace</text>
+ <text x="1360" y="27" text-anchor="end" fill="#00f5ff" font-size="10">LIVE / BUILD</text>
+ <text x="42" y="82" fill="#00ff9d" font-size="14">$ ./ship</text>
+ <text x="133" y="82" fill="#dbeafe" font-size="14">knowledge synced</text>
+ <text x="330" y="82" fill="#8b5cf6" font-size="14">•</text>
+ <text x="350" y="82" fill="#dbeafe" font-size="14">projects moving</text>
+ <text x="525" y="82" fill="#ff36d6" font-size="14">•</text>
+ <text x="545" y="82" fill="#dbeafe" font-size="14">next idea loading</text>
+ <text x="42" y="124" fill="#00e5ff" font-size="13">$ echo</text>
+ <text x="118" y="124" fill="#ffffff" font-size="18" font-weight="700" letter-spacing="2">BUILD · CREATE · AUTOMATE · SHIP</text>
+ <rect x="42" y="151" width="1316" height="5" rx="2.5" fill="#152036"/>
+ <rect x="42" y="151" width="360" height="5" rx="2.5" fill="url(#line)" filter="url(#glow)"><animate attributeName="x" values="42;980;42" dur="5s" repeatCount="indefinite"/><animate attributeName="width" values="360;310;360" dur="5s" repeatCount="indefinite"/></rect>
+ <text x="42" y="184" fill="#60738a" font-size="10">AMRRISH / CYBERPUNK DEVELOPER PROFILE / 2026</text>
+ <text x="1358" y="184" text-anchor="end" fill="#00ff9d" font-size="10"><animate attributeName="opacity" values="1;.35;1" dur="1.6s" repeatCount="indefinite"/>● ONLINE</text>
+</g>
 </svg>
