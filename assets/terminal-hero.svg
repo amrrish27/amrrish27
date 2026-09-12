@@ -1,39 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430" role="img" aria-label="Kali terminal hero: Amrrish Roshan developer workstation">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Amrrish Roshan Kali command center">
   <defs>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="5" result="b"/><feComponentTransfer in="b" result="b2"><feFuncA type="linear" slope="0.55"/></feComponentTransfer><feMerge><feMergeNode in="b2"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <pattern id="scan" width="3" height="4" patternUnits="userSpaceOnUse"><rect width="3" height="1" fill="#D4AF37" opacity="0.045"/></pattern>
-    <linearGradient id="beam" x1="0" x2="1"><stop stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37" stop-opacity=".8"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
-    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8A641B"/><stop offset=".5" stop-color="#F2D27A"><animate attributeName="stop-color" values="#D4AF37;#FFF0B0;#D4AF37" dur="5s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#A57C24"/></linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#D4AF37" opacity="0.04"/></pattern>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#7B5716"/><stop offset=".5" stop-color="#F2D27A"><animate attributeName="stop-color" values="#D4AF37;#FFF0B0;#D4AF37" dur="4.8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#9E7626"/></linearGradient>
+    <radialGradient id="core" cx="50%" cy="42%"><stop offset="0" stop-color="#201807"/><stop offset=".62" stop-color="#080706"/><stop offset="1" stop-color="#030303"/></radialGradient>
+    <linearGradient id="beam" x1="0" x2="1"><stop stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37" stop-opacity=".78"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
   </defs>
-  <rect x="1" y="1" width="858" height="428" rx="14" fill="#070707" stroke="#3A2C12" stroke-width="1.5"/>
-  <rect x="1" y="1" width="858" height="42" rx="14" fill="#0D0D0C"/><rect x="1" y="29" width="858" height="14" fill="#0D0D0C"/><line x1="1" y1="43" x2="859" y2="43" stroke="#34260F" stroke-width="1.5"/>
-  <circle cx="24" cy="22" r="6" fill="#8B1E1E"/><circle cx="44" cy="22" r="6" fill="#D4AF37"/><circle cx="64" cy="22" r="6" fill="#F2D27A"/>
-  <text x="430" y="27" text-anchor="middle" font-family="'SFMono-Regular',ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" fill="#8D816C">amrrish27@kali: ~/profile — zsh</text>
-  <rect x="2" y="44" width="856" height="384" fill="url(#scan)"/>
-  <g opacity="0"><animateTransform attributeName="transform" type="translate" values="-80 0;860 0" dur="2.3s" begin=".1s" fill="freeze"/><animate attributeName="opacity" values="0;.6;.6;0" keyTimes="0;.08;.85;1" dur="2.3s" begin=".1s" fill="freeze"/><rect width="60" height="384" y="44" fill="url(#beam)"/></g>
+  <rect x="1" y="1" width="898" height="458" rx="16" fill="#060606" stroke="#3A2C12" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="44" rx="16" fill="#0D0D0C"/><rect x="1" y="31" width="898" height="14" fill="#0D0D0C"/>
+  <line x1="1" y1="45" x2="899" y2="45" stroke="#34260F"/>
+  <circle cx="24" cy="23" r="6" fill="#8B1E1E"/><circle cx="44" cy="23" r="6" fill="#D4AF37"/><circle cx="64" cy="23" r="6" fill="#F2D27A"/>
+  <text x="450" y="28" text-anchor="middle" font-family="'SFMono-Regular',ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" fill="#8D816C">amrrish27@kali: ~/command-center — zsh</text>
+  <rect x="2" y="46" width="896" height="412" fill="url(#scan)"/>
   <g font-family="'SFMono-Regular',ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace">
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".15s" fill="freeze"/><text x="28" y="78" font-size="15"><tspan fill="#D4AF37" font-weight="700">amrrish27@kali</tspan><tspan fill="#6F6658">:</tspan><tspan fill="#B99A4A">~</tspan><tspan fill="#6F6658">$ </tspan><tspan fill="#F5F1E8">./whoami</tspan></text></g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".55s" fill="freeze"/><text x="28" y="106" font-size="15"><tspan fill="#6F6658">[*] </tspan><tspan fill="#E7E1D6">loading profile </tspan><tspan fill="#6F6658">······ </tspan><tspan fill="#D4AF37" font-weight="700">ok</tspan></text></g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".95s" fill="freeze"/><text x="28" y="134" font-size="15"><tspan fill="#D4AF37">role  </tspan><tspan fill="#6F6658">: </tspan><tspan fill="#E7E1D6">full-stack · AI · backend</tspan></text></g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin="1.35s" fill="freeze"/><text x="28" y="162" font-size="15"><tspan fill="#D4AF37">mode  </tspan><tspan fill="#6F6658">: </tspan><tspan fill="#E7E1D6">build · automate · ship</tspan></text></g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin="1.75s" fill="freeze"/><text x="28" y="190" font-size="15"><tspan fill="#D4AF37">stack </tspan><tspan fill="#6F6658">: </tspan><tspan fill="#E7E1D6">React · Next.js · Node · Python</tspan></text></g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="2.15s" fill="freeze"/><text x="28" y="218" font-size="15"><tspan fill="#C89A2B">[+] </tspan><tspan fill="#D4AF37" font-weight="700">access granted</tspan></text></g>
-    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin="2.55s" fill="freeze"/>
-      <rect x="24" y="250" width="500" height="148" rx="14" fill="#080808" stroke="#5A4216"/>
-      <text x="42" y="278" fill="#F2D27A" font-size="11" letter-spacing="2">IDENTITY / BUILD SIGNAL</text>
-      <text x="42" y="316" fill="#F8F3E8" font-size="30" font-weight="700">AMRRISH ROSHAN</text>
-      <text x="42" y="342" fill="#A79C89" font-size="12">FULL-STACK DEVELOPER  /  AI BUILDER</text>
-      <text x="42" y="366" fill="#A79C89" font-size="12">BACKEND ENGINEER  /  PRODUCT SYSTEMS</text>
-      <text x="42" y="390" fill="#D4AF37" font-size="11">$ ./build --production <tspan fill="#F5F1E8">READY</tspan></text>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".12s" fill="freeze"/><text x="28" y="78" font-size="15"><tspan fill="#D4AF37" font-weight="700">amrrish27@kali</tspan><tspan fill="#706653">:</tspan><tspan fill="#B99A4A">~</tspan><tspan fill="#706653">$ </tspan><tspan fill="#F5F1E8">./boot-profile</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".52s" fill="freeze"/><text x="28" y="106" font-size="15"><tspan fill="#6F6658">[*] </tspan><tspan fill="#E7E1D6">initializing command center </tspan><tspan fill="#6F6658">···· </tspan><tspan fill="#D4AF37" font-weight="700">ok</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".92s" fill="freeze"/><text x="28" y="134" font-size="15"><tspan fill="#D4AF37">focus </tspan><tspan fill="#6F6658">: </tspan><tspan fill="#E7E1D6">full-stack · AI · backend systems</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin="1.32s" fill="freeze"/><text x="28" y="162" font-size="15"><tspan fill="#D4AF37">mode  </tspan><tspan fill="#6F6658">: </tspan><tspan fill="#E7E1D6">build · automate · ship · iterate</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin="1.72s" fill="freeze"/><text x="28" y="190" font-size="15"><tspan fill="#D4AF37">stack </tspan><tspan fill="#6F6658">: </tspan><tspan fill="#E7E1D6">React · Next.js · Node · Python</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="2.12s" fill="freeze"/><text x="28" y="218" font-size="15"><tspan fill="#C89A2B">[+] </tspan><tspan fill="#D4AF37" font-weight="700">session synchronized</tspan></text></g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".5s" begin="2.48s" fill="freeze"/>
+      <rect x="24" y="252" width="490" height="168" rx="15" fill="#080808" stroke="#5A4216"/>
+      <text x="42" y="280" fill="#F2D27A" font-size="11" letter-spacing="2">PROFILE / SIGNAL</text>
+      <text x="42" y="318" fill="#F8F3E8" font-size="30" font-weight="700">AMRRISH ROSHAN</text>
+      <text x="42" y="345" fill="#A79C89" font-size="12">FULL-STACK DEVELOPER  /  AI BUILDER</text>
+      <text x="42" y="368" fill="#A79C89" font-size="12">BACKEND ENGINEER  /  PRODUCT SYSTEMS</text>
+      <text x="42" y="398" fill="#D4AF37" font-size="11">$ ./ship <tspan fill="#F5F1E8"><animate attributeName="fill-opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/>READY</tspan></text>
     </g>
     <g>
-      <circle cx="665" cy="245" r="150" fill="#080707" stroke="#D4AF37" stroke-opacity=".28"/>
-      <circle cx="665" cy="245" r="136" fill="none" stroke="#8D6B28" stroke-opacity=".7" stroke-dasharray="7 10"><animateTransform attributeName="transform" type="rotate" from="0 665 245" to="360 665 245" dur="20s" repeatCount="indefinite"/></circle>
-      <circle cx="665" cy="245" r="111" fill="#050505" stroke="#4A3410"/>
-      <image x="585" y="135" width="160" height="220" preserveAspectRatio="xMidYMid meet" href="pet-full.webp"/>
-      <circle cx="665" cy="118" r="5" fill="#D4AF37" filter="url(#glow)"><animate attributeName="r" values="4;8;4" dur="1.8s" repeatCount="indefinite"/></circle>
-      <path d="M665 107V82M653 94L665 82L677 94" stroke="#F2D27A" stroke-width="3" fill="none"/>
-      <text x="665" y="382" text-anchor="middle" fill="#806F50" font-size="9" letter-spacing="3">KALI / WORKSTATION / ONLINE</text>
+      <circle cx="700" cy="268" r="156" fill="url(#core)" stroke="#D4AF37" stroke-opacity=".30"/>
+      <circle cx="700" cy="268" r="139" fill="none" stroke="#8D6B28" stroke-opacity=".70" stroke-width="2" stroke-dasharray="6 11"><animateTransform attributeName="transform" type="rotate" from="0 700 268" to="360 700 268" dur="18s" repeatCount="indefinite"/></circle>
+      <circle cx="700" cy="268" r="116" fill="none" stroke="#4A3410" stroke-opacity=".9"/>
+      <circle cx="700" cy="268" r="102" fill="#030303" stroke="#C39A3E" stroke-opacity=".30"/>
+      <image x="650" y="184" width="100" height="160" preserveAspectRatio="xMidYMid meet" href="https://raw.githubusercontent.com/amrrish27/amrrish27/main/assets/pet-full.webp"/>
+      <circle cx="700" cy="126" r="5" fill="#D4AF37" filter="url(#glow)"><animate attributeName="r" values="3;8;3" dur="1.7s" repeatCount="indefinite"/></circle>
+      <path d="M700 114V91M688 102L700 90L712 102" stroke="#F2D27A" stroke-width="3" fill="none"/>
+      <text x="700" y="405" text-anchor="middle" fill="#806F50" font-size="9" letter-spacing="3">KALI / COMMAND CENTER / ONLINE</text>
+    </g>
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".4s" begin="2.9s" fill="freeze"/>
+      <text x="542" y="90" fill="#D4AF37" font-size="10" letter-spacing="3">CORE LINK</text>
+      <text x="542" y="112" fill="#E7E1D6" font-size="12">identity → execution</text>
+      <line x1="542" y1="124" x2="858" y2="124" stroke="#3A2C12"/>
+      <text x="542" y="151" fill="#B99A4A" font-size="11">runtime</text><text x="620" y="151" fill="#F5F1E8" font-size="11">stable</text>
+      <text x="542" y="175" fill="#B99A4A" font-size="11">pipeline</text><text x="620" y="175" fill="#F5F1E8" font-size="11">building</text>
+      <text x="542" y="199" fill="#B99A4A" font-size="11">release</text><text x="620" y="199" fill="#D4AF37" font-size="11">continuous</text>
     </g>
   </g>
 </svg>
