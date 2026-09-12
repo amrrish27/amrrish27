@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 560" role="img" aria-labelledby="title desc">
+<title id="title">Amrrish Roshan cybersecurity terminal</title>
+<desc id="desc">A polished Kali-inspired terminal profile showing web security, full stack, AI agents and CTF work.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#070b12"/><stop offset="0.55" stop-color="#0b111b"/><stop offset="1" stop-color="#111827"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop offset="0" stop-color="#00ff9d"/><stop offset="1" stop-color="#00d9ff"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="3.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#173047" stroke-width="1" opacity=".38"/></pattern>
+</defs>
+<rect width="1400" height="560" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1398" height="558" rx="24" fill="url(#grid)"/>
+<rect x="1" y="1" width="1398" height="558" rx="24" fill="none" stroke="#203247" stroke-width="2"/>
+<rect x="0" y="0" width="1400" height="58" rx="24" fill="#0e1622"/>
+<circle cx="32" cy="29" r="7" fill="#ff5f57"/><circle cx="56" cy="29" r="7" fill="#febc2e"/><circle cx="80" cy="29" r="7" fill="#28c840"/>
+<text x="700" y="35" text-anchor="middle" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">amrrish@kali: ~/profile/security</text>
+<text x="38" y="104" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20">amrrish@kali</text>
+<text x="176" y="104" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20">:</text>
+<text x="190" y="104" fill="#00d9ff" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20">~/profile</text>
+<text x="292" y="104" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="20">$ ./whoami --verbose</text>
+<text x="38" y="143" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">[identity]</text>
+<text x="170" y="143" fill="#e5edf5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">Amrrish Roshan</text>
+<text x="38" y="175" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">[role]</text>
+<text x="170" y="175" fill="#e5edf5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">Full-Stack Developer  •  AI Builder  •  Cybersecurity Enthusiast</text>
+<text x="38" y="207" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">[stack]</text>
+<text x="170" y="207" fill="#e5edf5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">React  Node.js  Python  Linux  Git  APIs  Cloud</text>
+<text x="38" y="239" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">[mission]</text>
+<text x="170" y="239" fill="#e5edf5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="17">build → test → break → harden → ship</text>
+<text x="38" y="286" fill="#00d9ff" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">$ cat /etc/security/modules</text>
+<rect x="38" y="310" width="790" height="188" rx="12" fill="#070c13" stroke="#1c3448"/>
+<text x="62" y="345" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">MODULE</text><text x="450" y="345" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">FOCUS</text><text x="735" y="345" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">STATE</text>
+<line x1="62" y1="356" x2="800" y2="356" stroke="#203247"/>
+<text x="62" y="387" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">web-security</text><text x="450" y="387" fill="#9fb0c0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">Web / API testing</text><text x="735" y="387" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">ACTIVE</text>
+<text x="62" y="423" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">ai-agents</text><text x="450" y="423" fill="#9fb0c0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">Automation / AI systems</text><text x="735" y="423" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">BUILDING</text>
+<text x="62" y="459" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">ctf-lab</text><text x="450" y="459" fill="#9fb0c0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">Linux / RE / Web</text><text x="735" y="459" fill="#00d9ff" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">RESEARCH</text>
+<rect x="870" y="92" width="486" height="406" rx="14" fill="#08101a" stroke="#1c3448"/>
+<text x="900" y="132" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">[ terminal::session ]</text>
+<text x="900" y="170" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">$ uname -a</text>
+<text x="900" y="194" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">Kali Linux  •  x86_64  •  security-lab</text>
+<text x="900" y="230" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">$ ls ~/toolbox</text>
+<text x="900" y="254" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">nmap  burp  ffuf  wireshark</text>
+<text x="900" y="276" fill="#d7e2ee" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">python  git  docker  node</text>
+<text x="900" y="312" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">$ printf '%s\n' "current-mode"</text>
+<text x="900" y="338" fill="#00d9ff" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">SECURE_BUILD_MODE</text>
+<text x="900" y="374" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">$ git status --short</text>
+<text x="900" y="400" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">clean  •  learning  •  shipping</text>
+<text x="900" y="442" fill="#718096" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15">$ echo $PROMPT</text>
+<text x="900" y="468" fill="#00ff9d" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" filter="url(#glow)">learn • build • break • secure • ship</text>
+</svg>
