@@ -1,172 +1,186 @@
 <div align="center">
 
-<!-- CYBER TERMINAL HERO -->
+# AMRRISH ROSHAN
+
+### `FULL-STACK • AI • CYBERSECURITY`
+
+**Computer Science Student · CTF Player · AI Builder · Security-Focused Developer**
+
+[![GitHub](https://img.shields.io/badge/GitHub-amrrish27-111827?style=for-the-badge&logo=github)](https://github.com/amrrish27)
+[![Profile Views](https://komarev.com/ghpvc/?username=amrrish27&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)](https://github.com/amrrish27)
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,45:0B3B36,75:00D9A5,100:071014&height=110&section=header" width="100%" alt="cyber header"/>
+  <img src="./assets/cyber-terminal.svg" width="100%" alt="Amrrish Roshan cyber security terminal profile" />
 </p>
 
-### `amrrish@kali:~$ ./profile --root`
-
-```text
-┌──(amrrish㉿kali)-[~/profile]
-└─$ whoami
-
-[+] identity     : Amrrish Roshan
-[+] role         : Full-Stack Developer • AI Builder • Cybersecurity Enthusiast
-[+] operating    : Web • APIs • Linux • Security
-[+] mindset      : BUILD → BREAK → DEBUG → SECURE
-[+] status       : ONLINE // ACCESS GRANTED
-
-┌──[ ACTIVE MODULES ]──────────────────────────────────────────────┐
-│  web-security       ████████████████░░  88%                     │
-│  full-stack         ███████████████░░░  82%                     │
-│  ai-agents          ██████████████░░░░  76%                     │
-│  ctf-research       █████████████░░░░░  72%                     │
-└──────────────────────────────────────────────────────────────────┘
-
-$ echo "Learn • Build • Break • Secure • Ship"
-Learn • Build • Break • Secure • Ship
-```
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=900&color=00E5A0&center=true&vCenter=true&width=900&lines=booting+security_protocols...;enumerating+attack_surface...;building+AI-powered+systems...;hardening+what+I+ship...;CTF+mode%3A+ACTIVE;access_granted%3A+welcome%2C+Amrrish" alt="terminal typing animation"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=amrrish27&label=PROFILE%20VIEWS&color=00D9A5&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/amrrish27?label=FOLLOWERS&style=for-the-badge&color=00A98F" alt="followers"/>
-<img src="https://img.shields.io/badge/KALI_LINUX-SECURITY-00D9A5?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-
-</div>
-
 ---
 
-## `~/intel/about_me.txt`
+## `~/about`
 
 ```text
-Computer Science student focused on the intersection of software engineering,
-artificial intelligence, and offensive/defensive cybersecurity.
+┌──[ amrrish@kali ]──[ ~/about ]
+└─$ ./profile --summary
 
-I like understanding how systems work — then testing how they fail.
-```
+  identity   : Amrrish Roshan
+  role       : Full-Stack Developer / AI Builder
+  domain     : Web Security / CTF / Automation
+  environment: Linux / Git / Docker / Cloud
+  approach   : build → test → break → harden → ship
 
-### Focus Areas
+  interests
+  ├── offensive & defensive security
+  ├── web / API security
+  ├── AI agents & intelligent automation
+  ├── backend engineering
+  └── real-world product development
 
-`🛡️ Web & API Security` · `☁️ Cloud Security` · `🔐 Vulnerability Research` · `🤖 AI Agents` · `⚡ Full-Stack Engineering` · `🧪 CTFs & Security Labs`
-
----
-
-## `~/ops/achievements.log`
-
-```text
-[+] TEAM KN1GHTS
-    9th Place — ZERO DAY HEIST 2026 CTF Grand Finale
-
-[+] CODESOFT
-    Completed App Development Internship
-
-[+] BUILD SYSTEM
-    Designed, built and deployed multiple full-stack applications
-
-[+] SECURITY LAB
-    Active participant in CTF competitions & cybersecurity challenges
+└─$ echo "security is a feature, not an afterthought"
 ```
 
 ---
 
-## `~/arsenal/stack`
+## `~/security-lab`
+
+> **Cybersecurity is a core engineering track — not just a visual theme.**
+
+| Area | Focus |
+|---|---|
+| 🌐 Web Security | Authentication, authorization, input handling, OWASP-style testing |
+| 🔌 API Security | API behavior, access control, request/response analysis |
+| 🐧 Linux | Kali Linux, shell workflows, permissions, tooling |
+| 🧪 CTF Research | Web, forensics, reverse engineering and challenge writeups |
+| 🤖 Security Automation | Python scripting, automation and AI-assisted workflows |
+| ☁️ Cloud Security | Secure application deployment and cloud fundamentals |
+
+### `~/toolbox`
+
+<p align="center">
+
+![Linux](https://img.shields.io/badge/Linux-0b1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali](https://img.shields.io/badge/Kali%20Linux-0b1117?style=for-the-badge&logo=kalilinux&logoColor=557CFF)
+![Python](https://img.shields.io/badge/Python-0b1117?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0b1117?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-0b1117?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-0b1117?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/Docker-0b1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0b1117?style=for-the-badge&logo=git)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b1117?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-0b1117?style=for-the-badge&logo=mysql)
+
+</p>
+
+---
+
+## `~/projects`
+
+### 🔐 [ZeroDayHeist CTF Writeups](https://github.com/amrrish27/ZeroDayHeist_CTF_Writeups)
+Security challenge writeups covering investigation, exploitation concepts, tooling and solution methodology.
+
+### 🤖 [Sales Nova AI](https://github.com/amrrish27/sales-nova-ai)
+AI-powered application focused on sales workflows and productivity.
+
+### 🧠 [Quizzy](https://github.com/amrrish27/Quizzy)
+Interactive quiz application with scoring and learning-focused user flows.
+
+### 🎓 [AttendAI](https://github.com/amrrish27/AttendAI)
+Attendance management application designed around streamlined tracking and record management.
+
+### 🏥 [Aura Health](https://github.com/amrrish27/Aura-Health)
+Wellness-focused application built around a practical user experience.
+
+### 📋 FlowSync
+Workflow and productivity platform focused on organizing tasks and tracking progress.
+
+---
+
+## `~/achievements`
+
+```text
+[+] ZERO DAY HEIST 2026 CTF GRAND FINALE
+    └── Team Kn1ghts · 9th Place
+
+[+] CODESOFT APP DEVELOPMENT INTERNSHIP
+    └── Completed · built and deployed multiple applications
+
+[+] SECURITY / CTF
+    └── Active participation in cybersecurity challenges
+```
+
+---
+
+## `~/engineering-stack`
+
+```text
+LANGUAGES       JavaScript · TypeScript · Python · C · C++
+FRONTEND        React · Vite · Tailwind CSS
+BACKEND         Node.js · Express.js · REST APIs
+DATABASES       MongoDB · MySQL · PostgreSQL
+DEVOPS          Git · GitHub · Docker · Linux
+AI              AI Agents · Automation · LLM Applications
+SECURITY        Web Security · API Security · CTF · Linux Security
+CLOUD           AWS / Cloud Fundamentals
+```
+
+---
+
+## `~/github-telemetry`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,nodejs,express,react,nextjs,vite,tailwind,mongodb,mysql,postgres,docker,aws,git,github,linux,bash&theme=dark" alt="technology stack"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=amrrish27&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## `~/projects --featured`
+## `~/contributions`
 
-| Project | Mission |
-|---|---|
-| 🧠 [**Quizzy**](https://github.com/amrrish27/Quizzy) | Interactive quiz platform with instant scoring and engagement tracking |
-| 📋 [**AttendAI**](https://github.com/amrrish27/AttendAI) | Attendance management application for tracking and record management |
-| 🤖 [**Sales Nova AI**](https://github.com/amrrish27/sales-nova-ai) | AI-powered sales and business productivity platform |
-| 🏥 [**Aura Health**](https://github.com/amrrish27/Aura-Health) | Wellness-focused application built for user engagement |
-| 📊 **FlowSync** | Workflow and productivity platform for task tracking |
-| 🔐 **ZeroDayHeist CTF Writeups** | Technical writeups from Zero Day Heist 2026 |
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
+</p>
 
 ---
 
-## `~/security/terminal`
+## `~/current-operation`
 
 ```bash
-┌──(amrrish㉿kali)-[~/security-lab]
-└─$ printf '%s\n' '[ RECON ]' '[ ENUM ]' '[ EXPLOIT ]' '[ PATCH ]' '[ VERIFY ]'
-[ RECON ]
-[ ENUM ]
-[ EXPLOIT ]
-[ PATCH ]
-[ VERIFY ]
+#!/usr/bin/env bash
 
-└─$ cat /etc/security-principles
-least_privilege
-secure_by_default
-assume_breach
-log_everything
-verify_before_trust
+MISSION="BUILD_SECURE_SYSTEMS"
+
+while true; do
+    learn
+    build
+    test
+    break
+    debug
+    harden
+    ship
+ done
 ```
 
-> **Ethical security only:** research, CTFs, authorized testing, and defensive engineering.
-
----
-
-## `~/metrics/dashboard`
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070A&title_color=00D9A5&icon_color=00D9A5&text_color=E6EDF3" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070A&title_color=00D9A5&text_color=E6EDF3" alt="top languages"/>
+### `BUILD • BREAK • DEBUG • SECURE • SHIP`
 
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=amrrish27&theme=tokyonight&hide_border=true&background=05070A&ring=00D9A5&fire=00D9A5&currStreakLabel=00D9A5" alt="contribution streak"/>
+`[ connection established ]` · `[ attack surface understood ]` · `[ systems secured ]`
 
 </div>
 
 ---
 
-## `~/contributions --stream`
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
-
-</div>
-
----
-
-## `~/connect --encrypted-channel`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9A5)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00D9A5)](https://twitter.com/YOUR-HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00D9A5)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9A5)](https://YOUR-PORTFOLIO.com)
-
-</div>
-
-<div align="center">
-
-```text
-[ SYSTEM ]  learn continuously
-[ SYSTEM ]  build aggressively
-[ SYSTEM ]  test responsibly
-[ SYSTEM ]  secure everything
-[ SYSTEM ]  ship what matters
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071014,45:00D9A5,100:05070A&height=130&section=footer&text=ACCESS%20GRANTED%20%E2%80%A2%20KEEP%20BUILDING&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="footer banner"/>
+**Open to building, collaborating, competing and learning.**
 
 </div>
