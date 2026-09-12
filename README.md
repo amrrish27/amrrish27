@@ -12,11 +12,7 @@
 
 <br /><br />
 
-<img src="./assets/loadout-v2.svg" width="100%" alt="Advanced animated technology command center" />
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph" />
+<img src="./assets/loadout-v2.svg" width="100%" alt="Animated technology loadout" />
 
 <br /><br />
 
