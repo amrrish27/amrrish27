@@ -12,7 +12,7 @@
 
 <br /><br />
 
-<img src="./assets/loadout.svg" width="100%" alt="Animated technology loadout" />
+<img src="./assets/loadout-v2.svg" width="100%" alt="Advanced animated technology command center" />
 
 <br /><br />
 
