@@ -1,73 +1,43 @@
 <div align="center">
 
-<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — cyberpunk security research workstation" />
+<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — animated cyberpunk developer workstation" />
 
 <br />
 
-<code>full-stack</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>AI builder</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>security research</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>CTF player</code>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER;AI+BUILDER;BUILDING+INTELLIGENT+PRODUCTS;TURNING+IDEAS+INTO+SYSTEMS" alt="Animated developer roles" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=amrrish27&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/amrrish27?style=for-the-badge&color=00e5ff&label=FOLLOWERS" alt="Followers" />
 
 </div>
 
----
-
-## `~/about`
-
-```text
-Amrrish Roshan — building AI-powered web systems and exploring web security,
-APIs, CTFs, Linux, backend engineering and automation.
-```
-
-## `~/security`
+<br />
 
 <div align="center">
-
-`WEB SECURITY`　 `API SECURITY`　 `NETWORK SECURITY`　 `KALI / LINUX`
-
-`CTF`　 `OSINT`　 `VULNERABILITY RESEARCH`　 `SECURITY AUTOMATION`
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amrrish27&theme=github_dark" width="100%" alt="GitHub activity" />
 </div>
 
-```text
-RECON      nmap · gobuster · ffuf · subfinder
-ANALYSIS   Wireshark · binwalk · ExifTool · strings · xxd
-WEB        Burp Suite · OWASP ZAP · Fiddler
-```
-
-## `~/selected-projects`
-
-| project | focus |
-|:--|:--|
-| [FounderFlow](https://github.com/amrrish27/FounderFlow) | Startup-exit classification with FastAPI and a Random Forest model |
-| [Ratefluencer](https://github.com/amrrish27/viral-mode) | AI-assisted trend intelligence and content workflow |
-| [Sellora AI](https://github.com/amrrish27/sales-nova-ai) | AI sales-assistant product with Supabase and Gemini |
-| [ZeroDayHeist writeups](https://github.com/amrrish27/ZeroDayHeist_CTF_Writeups) | Forked community reference across forensics, RE, OSINT, and crypto |
-
-## `~/stack`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,python,fastapi,mongodb,mysql,supabase,docker,aws,git,linux,bash&perline=15" alt="Technology stack" />
-</p>
-
-## `~/ctf-log`
-
-```text
-╭─ ZERO DAY HEIST 2026 / GRAND FINALE
-│ TEAM     : Kn1ghts
-│ RESULT   : #09
-╰─ STATUS   : OBJECTIVE COMPLETE
-```
-
-<details>
-<summary><code>github telemetry</code></summary>
 <br />
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrrish27&theme=github_dark" alt="GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amrrish27&theme=github_dark" alt="Repository languages" />
-</p>
-</details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="49%" alt="Top languages" />
+</div>
 
-<img src="./assets/footer-terminal.svg" width="100%" alt="Build, inspect, secure" />
+<br />
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=amrrish27&theme=github-dark-blue&hide_border=true" width="70%" alt="Contribution streak" />
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution graph" />
+</div>
+
+<br />
+
+<img src="./assets/footer-terminal.svg" width="100%" alt="Animated cyberpunk developer footer" />
