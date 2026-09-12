@@ -1,137 +1,172 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:8B5CF6,100:00E5FF&height=260&section=header&text=AMRRISH%20ROSHAN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Builder%20•%20Cybersecurity%20Enthusiast&descAlignY=58"/>
-</p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;AI+Builder;Cybersecurity+Enthusiast;Hackathon+Participant;CTF+Player" />
+<!-- CYBER TERMINAL HERO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070A,45:0B3B36,75:00D9A5,100:071014&height=110&section=header" width="100%" alt="cyber header"/>
+</p>
 
-<br><br>
+### `amrrish@kali:~$ ./profile --root`
 
-<img src="https://komarev.com/ghpvc/?username=amrrish27&label=Profile%20Views&color=8B5CF6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/amrrish27?label=Followers&style=for-the-badge&color=06B6D4" />
+```text
+┌──(amrrish㉿kali)-[~/profile]
+└─$ whoami
+
+[+] identity     : Amrrish Roshan
+[+] role         : Full-Stack Developer • AI Builder • Cybersecurity Enthusiast
+[+] operating    : Web • APIs • Linux • Security
+[+] mindset      : BUILD → BREAK → DEBUG → SECURE
+[+] status       : ONLINE // ACCESS GRANTED
+
+┌──[ ACTIVE MODULES ]──────────────────────────────────────────────┐
+│  web-security       ████████████████░░  88%                     │
+│  full-stack         ███████████████░░░  82%                     │
+│  ai-agents          ██████████████░░░░  76%                     │
+│  ctf-research       █████████████░░░░░  72%                     │
+└──────────────────────────────────────────────────────────────────┘
+
+$ echo "Learn • Build • Break • Secure • Ship"
+Learn • Build • Break • Secure • Ship
+```
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=900&color=00E5A0&center=true&vCenter=true&width=900&lines=booting+security_protocols...;enumerating+attack_surface...;building+AI-powered+systems...;hardening+what+I+ship...;CTF+mode%3A+ACTIVE;access_granted%3A+welcome%2C+Amrrish" alt="terminal typing animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=amrrish27&label=PROFILE%20VIEWS&color=00D9A5&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/amrrish27?label=FOLLOWERS&style=for-the-badge&color=00A98F" alt="followers"/>
+<img src="https://img.shields.io/badge/KALI_LINUX-SECURITY-00D9A5?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+## `~/intel/about_me.txt`
 
-I'm **Amrrish Roshan**, a Computer Science student passionate about building real-world software, AI-powered applications, and cybersecurity projects.
+```text
+Computer Science student focused on the intersection of software engineering,
+artificial intelligence, and offensive/defensive cybersecurity.
 
-### Interests
+I like understanding how systems work — then testing how they fail.
+```
 
-🧠 Artificial Intelligence
+### Focus Areas
 
-⚡ Full-Stack Development
-
-🔐 Cybersecurity & CTFs
-
-🤖 Automation & AI Agents
-
-🚀 Building Practical Products
+`🛡️ Web & API Security` · `☁️ Cloud Security` · `🔐 Vulnerability Research` · `🤖 AI Agents` · `⚡ Full-Stack Engineering` · `🧪 CTFs & Security Labs`
 
 ---
 
-# 🏆 Achievements
+## `~/ops/achievements.log`
 
-🥇 Team Kn1ghts — Secured **9th Place** in the **ZERO DAY HEIST 2026 CTF Grand Finale**
+```text
+[+] TEAM KN1GHTS
+    9th Place — ZERO DAY HEIST 2026 CTF Grand Finale
 
-🚀 Successfully completed **CodeSoft App Development Internship**
+[+] CODESOFT
+    Completed App Development Internship
 
-💻 Built and deployed multiple full-stack applications
+[+] BUILD SYSTEM
+    Designed, built and deployed multiple full-stack applications
 
-🔐 Active participant in CTF competitions and cybersecurity challenges
-
----
-
-# 🛠️ Tech Stack
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge\&logo=python)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge\&logo=cplusplus)
-
-### Frameworks & Tools
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge\&logo=react)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge\&logo=vite)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111827?style=for-the-badge\&logo=tailwindcss)
-![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge\&logo=supabase)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github)
+[+] SECURITY LAB
+    Active participant in CTF competitions & cybersecurity challenges
+```
 
 ---
 
-# 🚀 Featured Projects
-
-### 📋 FlowSync
-
-A workflow and productivity management platform that helps users organize tasks, track progress, and improve productivity.
-
-### 🎓 AttendAI
-
-An attendance management application designed to simplify attendance tracking and record management.
-
-### 🧠 Quizzy
-
-An interactive quiz platform that allows users to attempt quizzes, receive instant scores, and improve learning engagement.
-
-### 🔐 ZeroDayHeist CTF Writeups
-
-Detailed writeups for challenges solved during the Zero Day Heist 2026 CTF competition.
-
-### 🤖 Sales Nova AI
-
-AI-powered sales and business productivity application.
-
-### 🏥 Aura Health
-
-Health-focused application designed to improve wellness and user engagement.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amrrish27&theme=tokyonight&hide_border=true" />
-</p>
-
----
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-# 📈 Current Focus
-
-🔹 Full-Stack Development
-
-🔹 AI-Powered Applications
-
-🔹 Cybersecurity & CTF Challenges
-
-🔹 Open Source Contributions
-
-🔹 Building Real-World Products
-
----
+## `~/arsenal/stack`
 
 <div align="center">
 
-## ⚔️ Learn • Build • Secure • Ship
+<img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,nodejs,express,react,nextjs,vite,tailwind,mongodb,mysql,postgres,docker,aws,git,github,linux,bash&theme=dark" alt="technology stack"/>
+
+</div>
+
+---
+
+## `~/projects --featured`
+
+| Project | Mission |
+|---|---|
+| 🧠 [**Quizzy**](https://github.com/amrrish27/Quizzy) | Interactive quiz platform with instant scoring and engagement tracking |
+| 📋 [**AttendAI**](https://github.com/amrrish27/AttendAI) | Attendance management application for tracking and record management |
+| 🤖 [**Sales Nova AI**](https://github.com/amrrish27/sales-nova-ai) | AI-powered sales and business productivity platform |
+| 🏥 [**Aura Health**](https://github.com/amrrish27/Aura-Health) | Wellness-focused application built for user engagement |
+| 📊 **FlowSync** | Workflow and productivity platform for task tracking |
+| 🔐 **ZeroDayHeist CTF Writeups** | Technical writeups from Zero Day Heist 2026 |
+
+---
+
+## `~/security/terminal`
+
+```bash
+┌──(amrrish㉿kali)-[~/security-lab]
+└─$ printf '%s\n' '[ RECON ]' '[ ENUM ]' '[ EXPLOIT ]' '[ PATCH ]' '[ VERIFY ]'
+[ RECON ]
+[ ENUM ]
+[ EXPLOIT ]
+[ PATCH ]
+[ VERIFY ]
+
+└─$ cat /etc/security-principles
+least_privilege
+secure_by_default
+assume_breach
+log_everything
+verify_before_trust
+```
+
+> **Ethical security only:** research, CTFs, authorized testing, and defensive engineering.
+
+---
+
+## `~/metrics/dashboard`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=amrrish27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070A&title_color=00D9A5&icon_color=00D9A5&text_color=E6EDF3" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrrish27&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070A&title_color=00D9A5&text_color=E6EDF3" alt="top languages"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=amrrish27&theme=tokyonight&hide_border=true&background=05070A&ring=00D9A5&fire=00D9A5&currStreakLabel=00D9A5" alt="contribution streak"/>
+
+</div>
+
+---
+
+## `~/contributions --stream`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/amrrish27/amrrish27/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+</div>
+
+---
+
+## `~/connect --encrypted-channel`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9A5)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00D9A5)](https://twitter.com/YOUR-HANDLE)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00D9A5)](mailto:YOUR-EMAIL@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9A5)](https://YOUR-PORTFOLIO.com)
+
+</div>
+
+<div align="center">
+
+```text
+[ SYSTEM ]  learn continuously
+[ SYSTEM ]  build aggressively
+[ SYSTEM ]  test responsibly
+[ SYSTEM ]  secure everything
+[ SYSTEM ]  ship what matters
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071014,45:00D9A5,100:05070A&height=130&section=footer&text=ACCESS%20GRANTED%20%E2%80%A2%20KEEP%20BUILDING&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="footer banner"/>
 
 </div>
