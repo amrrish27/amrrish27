@@ -2,6 +2,10 @@
 
 ## `01 / DEVELOPER WORKSTATION`
 
+<p align="center">
+  <img src="https://github.com/amrrish27/amrrish27/blob/main/assets/pet-full.webp" width="300" alt="Amrrish mascot" />
+</p>
+
 <img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — developer workstation" />
 
 <br />
