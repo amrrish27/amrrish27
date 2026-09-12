@@ -2,6 +2,11 @@
 
 ## `01 / DEVELOPER WORKSTATION`
 
+<!-- Add your own full-body pet image manually here:
+     1. Upload it to assets/ as `pet-full.png`
+     2. Use: <img src="./assets/pet-full.png" width="280" alt="Mascot" />
+-->
+
 <img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — developer workstation" />
 
 <br />
@@ -12,18 +17,17 @@
 
 ## `02 / SELECTED WORK`
 
-<div align="center">
+> **01 — FOUNDERFLOW** · `FastAPI` · `Python` · `scikit-learn`  
+> Startup-exit classification and ML decision support.  
+> [Open repository →](https://github.com/amrrish27/FounderFlow)
 
-### `01` · [FounderFlow](https://github.com/amrrish27/FounderFlow)
-`FastAPI` · `Python` · `scikit-learn`
+> **02 — RATEFLUENCER** · `React` · `TypeScript` · `AI`  
+> Creator trend intelligence, content workflows and scoring.  
+> [Open repository →](https://github.com/amrrish27/viral-mode)
 
-### `02` · [Ratefluencer](https://github.com/amrrish27/viral-mode)
-`React` · `TypeScript` · `AI`
-
-### `03` · [Sellora AI](https://github.com/amrrish27/sales-nova-ai)
-`React` · `Supabase` · `Gemini`
-
-</div>
+> **03 — SELLORA AI** · `React` · `Supabase` · `Gemini`  
+> AI sales workflows for leads, conversations and analytics.  
+> [Open repository →](https://github.com/amrrish27/sales-nova-ai)
 
 <br />
 
