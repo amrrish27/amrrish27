@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+<title id="title">Amrrish Roshan developer command center</title>
+<desc id="desc">Animated cyberpunk developer and AI command center visual.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060012"><animate attributeName="stop-color" values="#060012;#13002a;#060012" dur="9s" repeatCount="indefinite"/></stop><stop offset=".5" stop-color="#001921"><animate attributeName="stop-color" values="#001921;#08243d;#001921" dur="7s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#170015"><animate attributeName="stop-color" values="#170015;#2a0025;#170015" dur="11s" repeatCount="indefinite"/></stop></linearGradient>
+  <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#00ff9d"/><stop offset=".45" stop-color="#00e5ff"/><stop offset="1" stop-color="#ff3df2"/></linearGradient>
+  <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#7c3aed" stroke-opacity=".12"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="420" rx="28" fill="url(#bg)"/><rect width="1400" height="420" rx="28" fill="url(#grid)"/>
+<rect x="20" y="20" width="1360" height="380" rx="22" fill="#050912" fill-opacity=".84" stroke="url(#neon)" stroke-opacity=".72"/>
+<rect x="20" y="20" width="1360" height="52" rx="22" fill="#0d1220"/>
+<circle cx="48" cy="46" r="6" fill="#ff4d67"/><circle cx="68" cy="46" r="6" fill="#ffd166"/><circle cx="88" cy="46" r="6" fill="#00ff9d"/>
+<text x="700" y="51" text-anchor="middle" fill="#90a0b5" font-family="ui-monospace,monospace" font-size="14" letter-spacing="3">AMRRISH@DEV :: COMMAND CENTER</text>
+<text x="52" y="105" fill="#00ff9d" font-family="ui-monospace,monospace" font-size="14">$ ./build --mode=creative</text>
+<text x="52" y="142" fill="#f3f7fb" font-family="ui-monospace,monospace" font-size="34" font-weight="700" letter-spacing="3">BUILDING DIGITAL SYSTEMS</text>
+<text x="52" y="169" fill="#8795a8" font-family="ui-monospace,monospace" font-size="12" letter-spacing="1.5">FULL-STACK  /  AI  /  BACKEND  /  PRODUCT ENGINEERING</text>
+<path d="M52 188H790" stroke="url(#neon)" stroke-width="2" opacity=".75"/>
+<g font-family="ui-monospace,monospace" font-size="13">
+<text x="52" y="228" fill="#00e5ff">01</text><text x="90" y="228" fill="#d7e1ec">react · next.js · vite</text>
+<text x="52" y="256" fill="#c084fc">02</text><text x="90" y="256" fill="#d7e1ec">node.js · python · fastapi</text>
+<text x="52" y="284" fill="#ff3df2">03</text><text x="90" y="284" fill="#d7e1ec">mongodb · mysql · firebase</text>
+<text x="52" y="312" fill="#ffd166">04</text><text x="90" y="312" fill="#d7e1ec">ai agents · automation · cloud</text>
+</g>
+<text x="52" y="350" fill="#00ff9d" font-family="ui-monospace,monospace" font-size="13">$ echo $STATUS</text>
+<text x="193" y="350" fill="#ffffff" font-family="ui-monospace,monospace" font-size="13">IDEAS → PROTOTYPES → PRODUCTS</text>
+<rect x="52" y="370" width="738" height="3" fill="url(#neon)"><animate attributeName="x" values="52;240;52" dur="5s" repeatCount="indefinite"/><animate attributeName="width" values="738;470;738" dur="5s" repeatCount="indefinite"/></rect>
+<g transform="translate(835 103)">
+  <rect width="500" height="255" rx="16" fill="#050a12" stroke="#00e5ff" stroke-opacity=".26"/>
+  <text x="24" y="32" fill="#ff3df2" font-family="ui-monospace,monospace" font-size="11" letter-spacing="2">LIVE BUILD MATRIX</text>
+  <g fill="none" stroke-linecap="round">
+    <path d="M38 72C120 28 176 126 258 78S390 38 462 88" stroke="#00e5ff" stroke-width="2" opacity=".55"/>
+    <path d="M38 112C120 70 178 166 258 118S392 76 462 130" stroke="#00ff9d" stroke-width="2" opacity=".5"/>
+    <path d="M38 152C112 122 172 206 258 158S388 124 462 172" stroke="#ff3df2" stroke-width="2" opacity=".5"/>
+  </g>
+  <g fill="#fff"><circle cx="38" cy="72" r="4" fill="#00e5ff"><animate attributeName="r" values="3;7;3" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="258" cy="78" r="4" fill="#00e5ff"><animate attributeName="r" values="3;7;3" dur="2.2s" repeatCount="indefinite"/></circle><circle cx="462" cy="88" r="4" fill="#00e5ff"><animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/></circle></g>
+  <g font-family="ui-monospace,monospace" font-size="11"><text x="24" y="202" fill="#76879a">FRONTEND</text><text x="145" y="202" fill="#dbe5ef">ACTIVE</text><text x="280" y="202" fill="#76879a">BACKEND</text><text x="400" y="202" fill="#dbe5ef">ACTIVE</text><text x="24" y="230" fill="#76879a">AI PIPELINE</text><text x="145" y="230" fill="#dbe5ef">BUILDING</text><text x="280" y="230" fill="#76879a">DEPLOYMENT</text><text x="400" y="230" fill="#dbe5ef">ITERATING</text></g>
+  <circle cx="458" cy="225" r="5" fill="#00ff9d" filter="url(#glow)"><animate attributeName="r" values="4;8;4" dur="1.6s" repeatCount="indefinite"/></circle>
+</g>
+<text x="52" y="395" fill="#5d6d80" font-family="ui-monospace,monospace" font-size="9" letter-spacing="2">AMRRISH / CREATIVE ENGINEERING WORKSTATION / 2026</text>
+</svg>
