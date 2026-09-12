@@ -6,6 +6,18 @@
 
 <br />
 
+<a href="https://www.linkedin.com/in/m-amrrish-roshan-701172381/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/amrrish27" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:amrrishroshan27@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-8B1E1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br /><br />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER;AI+BUILDER;BACKEND+ENGINEER;BUILDING+INTELLIGENT+PRODUCTS" alt="Animated developer roles" />
 
 <br /><br />
