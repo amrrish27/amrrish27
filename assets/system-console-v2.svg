@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Amrrish Roshan Kali system console">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050505"/><stop offset=".6" stop-color="#171108"/><stop offset="1" stop-color="#070303"/></linearGradient>
+<radialGradient id="core"><stop stop-color="#392B10"/><stop offset=".5" stop-color="#0D0A06"/><stop offset="1" stop-color="#030303"/></radialGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop stop-color="#765415"/><stop offset=".5" stop-color="#F2D27A"><animate attributeName="stop-color" values="#D4AF37;#FFF0B0;#D4AF37" dur="4s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#9C7422"/></linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#D4AF37" opacity=".035"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="1" y="1" width="898" height="458" rx="16" fill="url(#bg)" stroke="#3A2C12" stroke-width="1.5"/>
+<rect x="1" y="1" width="898" height="44" rx="16" fill="#0D0C0A"/><rect x="1" y="31" width="898" height="14" fill="#0D0C0A"/><line x1="1" y1="45" x2="899" y2="45" stroke="#3A2C12"/>
+<circle cx="24" cy="23" r="6" fill="#8B1E1E"/><circle cx="44" cy="23" r="6" fill="#D4AF37"/><circle cx="64" cy="23" r="6" fill="#F2D27A"/>
+<text x="450" y="28" text-anchor="middle" font-family="'SFMono-Regular',ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" fill="#9B8E76">amrrish27@kali: ~/system-console — zsh</text>
+<rect x="2" y="46" width="896" height="412" fill="url(#scan)"/>
+<g font-family="'SFMono-Regular',ui-monospace,'JetBrains Mono',Fira Code,Consolas,monospace">
+<text x="28" y="78" font-size="15"><tspan fill="#D4AF37" font-weight="700">amrrish27@kali</tspan><tspan fill="#706653">:</tspan><tspan fill="#B99A4A">~</tspan><tspan fill="#706653">$ </tspan><tspan fill="#F5F1E8">./boot</tspan><tspan fill="#D4AF37"> ▋</tspan></text>
+<text x="28" y="108" font-size="14"><tspan fill="#6F6658">[ 1/4 ] </tspan><tspan fill="#E7E1D6">mounting workspace</tspan><tspan fill="#D4AF37"> ........ </tspan><tspan fill="#F5F1E8">done</tspan></text>
+<text x="28" y="134" font-size="14"><tspan fill="#6F6658">[ 2/4 ] </tspan><tspan fill="#E7E1D6">indexing projects</tspan><tspan fill="#D4AF37"> .......... </tspan><tspan fill="#F5F1E8">done</tspan></text>
+<text x="28" y="160" font-size="14"><tspan fill="#6F6658">[ 3/4 ] </tspan><tspan fill="#E7E1D6">loading toolchain</tspan><tspan fill="#D4AF37"> ........... </tspan><tspan fill="#F5F1E8">done</tspan></text>
+<text x="28" y="186" font-size="14"><tspan fill="#6F6658">[ 4/4 ] </tspan><tspan fill="#E7E1D6">starting session</tspan><tspan fill="#D4AF37"> ........... </tspan><tspan fill="#F5F1E8">done</tspan></text>
+<text x="28" y="214" font-size="14"><tspan fill="#D4AF37">$ whoami</tspan><tspan fill="#706653">  →  </tspan><tspan fill="#F5F1E8">amrrish27</tspan></text>
+<text x="28" y="240" font-size="14"><tspan fill="#D4AF37">$ git branch --show-current</tspan><tspan fill="#706653">  →  </tspan><tspan fill="#F5F1E8">main</tspan></text>
+<g transform="translate(24 264)">
+<rect width="500" height="146" rx="15" fill="#080808" stroke="#5A4216"/>
+<text x="18" y="27" fill="#F2D27A" font-size="11" letter-spacing="2">$ fastfetch --profile</text>
+<text x="18" y="60" fill="#F8F3E8" font-size="29" font-weight="700">AMRRISH ROSHAN</text>
+<text x="18" y="84" fill="#A79C89" font-size="12">OS        : KALI LINUX</text>
+<text x="18" y="105" fill="#A79C89" font-size="12">SHELL     : ZSH</text>
+<text x="18" y="126" fill="#A79C89" font-size="12">FOCUS     : WEB · AI · BACKEND</text>
+<text x="18" y="139" fill="#D4AF37" font-size="10">SESSION   : ACTIVE</text>
+</g>
+<g>
+<circle cx="700" cy="270" r="158" fill="url(#core)" stroke="#D4AF37" stroke-opacity=".3"/>
+<circle cx="700" cy="270" r="140" fill="none" stroke="#8D6B28" stroke-width="2" stroke-dasharray="5 12"><animateTransform attributeName="transform" type="rotate" from="0 700 270" to="360 700 270" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="270" r="115" fill="#030303" stroke="#4A3410"/>
+<image x="656" y="205" width="88" height="132" preserveAspectRatio="xMidYMid meet" href="https://raw.githubusercontent.com/amrrish27/amrrish27/main/assets/pet-full.webp"/>
+<g transform="translate(700 270)"><path d="M0-126A126 126 0 0 1 89-89" fill="none" stroke="#F2D27A" stroke-width="6" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="2s" repeatCount="indefinite"/></path></g>
+<circle cx="700" cy="124" r="5" fill="#D4AF37" filter="url(#glow)"><animate attributeName="r" values="3;9;3" dur="1.2s" repeatCount="indefinite"/></circle>
+<path d="M700 112V88M688 100L700 88L712 100" stroke="#F2D27A" stroke-width="3" fill="none"/>
+<text x="700" y="414" text-anchor="middle" fill="#806F50" font-size="9" letter-spacing="3">KALI / SYSTEM CORE / ONLINE</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;1" dur=".45s" begin="2.8s" fill="freeze"/><text x="548" y="82" fill="#D4AF37" font-size="10" letter-spacing="3">LIVE PROCESS</text><text x="548" y="106" fill="#F5F1E8" font-size="13">terminal → build → ship</text><line x1="548" y1="120" x2="852" y2="120" stroke="#3A2C12"/><text x="548" y="150" fill="#B99A4A" font-size="11">kernel</text><text x="635" y="150" fill="#F5F1E8" font-size="11">ready</text><text x="548" y="174" fill="#B99A4A" font-size="11">workspace</text><text x="635" y="174" fill="#F5F1E8" font-size="11">mounted</text><text x="548" y="198" fill="#B99A4A" font-size="11">session</text><text x="635" y="198" fill="#D4AF37" font-size="11">active</text></g>
+</g></svg>
