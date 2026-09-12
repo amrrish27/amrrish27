@@ -2,7 +2,7 @@
 
 ## `01 / SYSTEM CONSOLE`
 
-<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — Kali system console" />
+<img src="./assets/system-console-v2.svg" width="100%" alt="Amrrish Roshan — Kali system console" />
 
 <br />
 
