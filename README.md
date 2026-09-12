@@ -7,7 +7,7 @@
 <br />
 
 <a href="https://www.linkedin.com/in/m-amrrish-roshan-701172381/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn" />
+  <img src="./assets/linkedin.svg" width="30" height="30" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/amrrish27" target="_blank">
