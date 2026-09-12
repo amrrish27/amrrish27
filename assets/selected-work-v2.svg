@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 320" role="img" aria-labelledby="title desc">
+<title id="title">Selected work — Amrrish Roshan</title><desc id="desc">Three compact project cards in a black, cream-gold and crimson theme.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030303"/><stop offset=".55" stop-color="#171208"/><stop offset="1" stop-color="#070303"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8A641B"/><stop offset=".45" stop-color="#F2D27A"><animate attributeName="stop-color" values="#D4AF37;#FFF0B0;#D4AF37" dur="5s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#A57C24"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="320" rx="26" fill="url(#bg)"/>
+<rect x="18" y="18" width="1364" height="284" rx="22" fill="none" stroke="url(#gold)" stroke-opacity=".45"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+<text x="52" y="55" fill="#F0D27A" font-size="14" font-weight="700" letter-spacing="4">SELECTED WORK</text>
+<text x="1348" y="55" text-anchor="end" fill="#837766" font-size="11">03 / FEATURED BUILDS</text>
+<path d="M52 72H1348" stroke="#8E6B26" stroke-opacity=".35"/>
+<g transform="translate(42 94)">
+<rect width="404" height="164" rx="16" fill="#080706" stroke="#D4AF37" stroke-opacity=".55"/>
+<rect x="0" width="5" height="164" rx="2" fill="url(#gold)"><animate attributeName="opacity" values=".45;1;.45" dur="2.2s" repeatCount="indefinite"/></rect>
+<text x="26" y="38" fill="#F2D27A" font-size="20" font-weight="700">01 · FounderFlow</text>
+<text x="26" y="66" fill="#7D715F" font-size="10">FASTAPI · PYTHON · SCIKIT-LEARN</text>
+<text x="26" y="98" fill="#ECE5D8" font-size="13">Startup-exit classification</text>
+<text x="26" y="122" fill="#AF8F4E" font-size="10">ML pipeline · decision support</text>
+<text x="26" y="146" fill="#D4AF37" font-size="10">VIEW ↗</text>
+</g>
+<g transform="translate(498 94)">
+<rect width="404" height="164" rx="16" fill="#080706" stroke="#C7A950" stroke-opacity=".6"/>
+<rect x="0" width="5" height="164" rx="2" fill="url(#gold)"><animate attributeName="opacity" values=".45;1;.45" dur="2.5s" repeatCount="indefinite"/></rect>
+<text x="26" y="38" fill="#E8CB70" font-size="20" font-weight="700">02 · Ratefluencer</text>
+<text x="26" y="66" fill="#7D715F" font-size="10">REACT · TYPESCRIPT · AI</text>
+<text x="26" y="98" fill="#ECE5D8" font-size="13">Creator trend intelligence</text>
+<text x="26" y="122" fill="#AF8F4E" font-size="10">content workflow · scoring</text>
+<text x="26" y="146" fill="#D4AF37" font-size="10">VIEW ↗</text>
+</g>
+<g transform="translate(954 94)">
+<rect width="404" height="164" rx="16" fill="#080706" stroke="#8B1E1E" stroke-opacity=".68"/>
+<rect x="0" width="5" height="164" rx="2" fill="url(#gold)"><animate attributeName="opacity" values=".45;1;.45" dur="2.1s" repeatCount="indefinite"/></rect>
+<text x="26" y="38" fill="#F0D27A" font-size="20" font-weight="700">03 · Sellora AI</text>
+<text x="26" y="66" fill="#8F7D69" font-size="10">REACT · SUPABASE · GEMINI</text>
+<text x="26" y="98" fill="#ECE5D8" font-size="13">AI sales assistant</text>
+<text x="26" y="122" fill="#AF8F4E" font-size="10">leads · conversations · analytics</text>
+<text x="26" y="146" fill="#D4AF37" font-size="10">VIEW ↗</text>
+</g>
+<path d="M42 278H1358" stroke="#5D4B2A" stroke-opacity=".55"/>
+<text x="52" y="297" fill="#695F50" font-size="9" letter-spacing="2">AMRRISH / PROJECT ARCHIVE / LIVE</text>
+</g>
+</svg>
