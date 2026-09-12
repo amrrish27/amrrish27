@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — Black Bulls inspired animated developer workstation" />
+<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — animated developer workstation" />
 
 <br />
 
@@ -8,14 +8,14 @@
 
 <br /><br />
 
-<img src="./assets/selected-work.svg" width="100%" alt="Three selected projects in a Black Bulls inspired palette" />
+<img src="./assets/selected-work.svg" width="100%" alt="Three selected projects connected around a mascot crest" />
 
 <br /><br />
 
-<img src="./assets/loadout-v2.svg" width="100%" alt="Black Bulls inspired animated technology loadout" />
+<img src="./assets/loadout-v2.svg" width="100%" alt="Animated technology loadout" />
 
 <br /><br />
 
-<img src="./assets/footer-terminal.svg" width="100%" alt="Black Bulls inspired animated developer footer" />
+<img src="./assets/footer-terminal.svg" width="100%" alt="Animated developer footer" />
 
 </div>
