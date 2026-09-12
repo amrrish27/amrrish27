@@ -1,52 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
-<title id="title">Selected work — Amrrish Roshan</title>
-<desc id="desc">Three compact featured project cards connected by an animated build graph.</desc>
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030303"/><stop offset=".55" stop-color="#171208"/><stop offset="1" stop-color="#070303"/></linearGradient>
- <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8A641B"/><stop offset=".45" stop-color="#F2D27A"><animate attributeName="stop-color" values="#D4AF37;#FFF0B0;#D4AF37" dur="5s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#A57C24"/></linearGradient>
- <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
- <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#D4AF37" stroke-opacity=".045"/></pattern>
-</defs>
-<rect width="1400" height="430" rx="26" fill="url(#bg)"/><rect width="1400" height="430" rx="26" fill="url(#grid)"/>
-<rect x="18" y="18" width="1364" height="394" rx="22" fill="none" stroke="url(#gold)" stroke-opacity=".45"/>
-<g font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
- <text x="52" y="53" fill="#F0D27A" font-size="14" font-weight="700" letter-spacing="4">SELECTED WORK</text>
- <text x="1348" y="53" text-anchor="end" fill="#837766" font-size="11">03 / FEATURED BUILDS</text>
- <path d="M52 70H1348" stroke="#8E6B26" stroke-opacity=".35"/>
- <g transform="translate(42 92)">
-   <rect width="395" height="104" rx="16" fill="#080706" stroke="#D4AF37" stroke-opacity=".55"/>
-   <text x="25" y="32" fill="#F2D27A" font-size="19" font-weight="700">01  FounderFlow</text>
-   <text x="25" y="55" fill="#766B5C" font-size="10">FASTAPI · PYTHON · ML</text>
-   <text x="25" y="80" fill="#ECE5D8" font-size="12">Startup-exit classification</text>
-   <text x="25" y="96" fill="#AF8F4E" font-size="9">model insights / decision support</text>
- </g>
- <g transform="translate(963 92)">
-   <rect width="395" height="104" rx="16" fill="#080706" stroke="#C7A950" stroke-opacity=".58"/>
-   <text x="25" y="32" fill="#E7CA6F" font-size="19" font-weight="700">02  Ratefluencer</text>
-   <text x="25" y="55" fill="#766B5C" font-size="10">REACT · TYPESCRIPT · AI</text>
-   <text x="25" y="80" fill="#ECE5D8" font-size="12">Creator trend intelligence</text>
-   <text x="25" y="96" fill="#AF8F4E" font-size="9">content workflows / scoring</text>
- </g>
- <g stroke="url(#gold)" fill="none" stroke-width="2.5" stroke-linecap="round">
-   <path d="M437 144C555 144 590 184 675 214"><animate attributeName="stroke-dasharray" values="0 330;165 165;0 330" dur="3.5s" repeatCount="indefinite"/></path>
-   <path d="M963 144C845 144 810 184 725 214"><animate attributeName="stroke-dasharray" values="0 330;165 165;0 330" dur="3.5s" repeatCount="indefinite"/></path>
-   <path d="M700 294V356" stroke-dasharray="10 10"><animate attributeName="stroke-dashoffset" values="0;-80" dur="2s" repeatCount="indefinite"/></path>
- </g>
- <circle cx="437" cy="144" r="5" fill="#B53027" filter="url(#glow)"/><circle cx="963" cy="144" r="5" fill="#B53027" filter="url(#glow)"/><circle cx="700" cy="356" r="5" fill="#B53027" filter="url(#glow)"/>
- <g transform="translate(530 104)">
-   <circle cx="170" cy="118" r="92" fill="#090806" stroke="#C9AA55" stroke-opacity=".25"/>
-   <circle cx="170" cy="118" r="78" fill="none" stroke="#8F6F2E" stroke-opacity=".55" stroke-dasharray="6 10"><animateTransform attributeName="transform" type="rotate" from="0 170 118" to="360 170 118" dur="20s" repeatCount="indefinite"/></circle>
-   <circle cx="170" cy="118" r="46" fill="#0A0806" stroke="#F0D27A" stroke-width="3"/>
-   <path d="M145 112L132 99M195 112L208 99M153 130L170 141L187 130" fill="none" stroke="#F0D27A" stroke-width="4" stroke-linecap="round"/>
-   <circle cx="150" cy="118" r="4" fill="#B53027"><animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/></circle>
-   <circle cx="190" cy="118" r="4" fill="#B53027"><animate attributeName="r" values="3;6;3" dur="1.7s" repeatCount="indefinite"/></circle>
-   <text x="170" y="181" text-anchor="middle" fill="#84755E" font-size="9" letter-spacing="3">CORE / BUILD GRAPH</text>
- </g>
- <g transform="translate(490 326)">
-   <rect width="420" height="62" rx="15" fill="#080706" stroke="#8B1E1E" stroke-opacity=".75"/>
-   <text x="22" y="27" fill="#F0D27A" font-size="18" font-weight="700">03  Sellora AI</text>
-   <text x="22" y="47" fill="#786D5D" font-size="9">REACT · SUPABASE · GEMINI   ·   AI SALES ASSISTANT</text>
- </g>
- <text x="52" y="397" fill="#695F50" font-size="9" letter-spacing="2">AMRRISH / PROJECT GRAPH / LIVE</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430" role="img" aria-label="Selected work terminal: Amrrish Roshan">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="scan" width="3" height="4" patternUnits="userSpaceOnUse"><rect width="3" height="1" fill="#D4AF37" opacity=".045"/></pattern>
+    <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#8A641B"/><stop offset=".5" stop-color="#F2D27A"><animate attributeName="stop-color" values="#D4AF37;#FFF0B0;#D4AF37" dur="5s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#A57C24"/></linearGradient>
+    <linearGradient id="beam" x1="0" x2="1"><stop stop-color="#D4AF37" stop-opacity="0"/><stop offset=".5" stop-color="#D4AF37" stop-opacity=".75"/><stop offset="1" stop-color="#D4AF37" stop-opacity="0"/></linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="858" height="428" rx="14" fill="#070707" stroke="#3A2C12" stroke-width="1.5"/>
+  <rect x="1" y="1" width="858" height="42" rx="14" fill="#0D0D0C"/><rect x="1" y="29" width="858" height="14" fill="#0D0D0C"/><line x1="1" y1="43" x2="859" y2="43" stroke="#34260F" stroke-width="1.5"/>
+  <circle cx="24" cy="22" r="6" fill="#8B1E1E"/><circle cx="44" cy="22" r="6" fill="#D4AF37"/><circle cx="64" cy="22" r="6" fill="#F2D27A"/>
+  <text x="430" y="27" text-anchor="middle" font-family="'SFMono-Regular',ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace" font-size="13" fill="#8D816C">amrrish27@kali: ~/selected-work — zsh</text>
+  <rect x="2" y="44" width="856" height="384" fill="url(#scan)"/>
+
+  <g opacity="0"><animateTransform attributeName="transform" type="translate" values="-80 0;860 0" dur="2.2s" begin=".1s" fill="freeze"/><animate attributeName="opacity" values="0;.55;.55;0" keyTimes="0;.08;.85;1" dur="2.2s" begin=".1s" fill="freeze"/><rect width="60" height="384" y="44" fill="url(#beam)"/></g>
+
+  <g font-family="'SFMono-Regular',ui-monospace,'JetBrains Mono','Fira Code',Consolas,monospace">
+    <text x="28" y="78" font-size="15"><tspan fill="#D4AF37" font-weight="700">amrrish27@kali</tspan><tspan fill="#6F6658">:</tspan><tspan fill="#B99A4A">~/selected-work</tspan><tspan fill="#6F6658"> $ </tspan><tspan fill="#F5F1E8">./load-builds</tspan></text>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".4s" fill="freeze"/>
+      <rect x="24" y="100" width="812" height="82" rx="12" fill="#080808" stroke="#5A4216"/>
+      <text x="44" y="129" fill="#F2D27A" font-size="18" font-weight="700">01  FounderFlow</text>
+      <text x="44" y="152" fill="#897D6A" font-size="10">FASTAPI · PYTHON · SCIKIT-LEARN</text>
+      <text x="44" y="170" fill="#E7E1D6" font-size="11">startup-exit classification / ML decision support</text>
+      <text x="805" y="151" text-anchor="end" fill="#D4AF37" font-size="10">[ BUILD 01 ]</text>
+    </g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin=".85s" fill="freeze"/>
+      <rect x="24" y="194" width="812" height="82" rx="12" fill="#080808" stroke="#5A4216"/>
+      <text x="44" y="223" fill="#F2D27A" font-size="18" font-weight="700">02  Ratefluencer</text>
+      <text x="44" y="246" fill="#897D6A" font-size="10">REACT · TYPESCRIPT · AI</text>
+      <text x="44" y="264" fill="#E7E1D6" font-size="11">creator trend intelligence / content workflows / scoring</text>
+      <text x="805" y="245" text-anchor="end" fill="#D4AF37" font-size="10">[ BUILD 02 ]</text>
+    </g>
+
+    <g opacity="0"><animate attributeName="opacity" values="0;1" dur=".35s" begin="1.3s" fill="freeze"/>
+      <rect x="24" y="288" width="812" height="82" rx="12" fill="#080808" stroke="#8B1E1E" stroke-opacity=".85"/>
+      <text x="44" y="317" fill="#F2D27A" font-size="18" font-weight="700">03  Sellora AI</text>
+      <text x="44" y="340" fill="#897D6A" font-size="10">REACT · SUPABASE · GEMINI</text>
+      <text x="44" y="358" fill="#E7E1D6" font-size="11">AI sales workflows / leads / conversations / analytics</text>
+      <text x="805" y="339" text-anchor="end" fill="#D4AF37" font-size="10">[ BUILD 03 ]</text>
+    </g>
+
+    <text x="28" y="404" fill="#6F6658" font-size="10">$ echo $STATUS <tspan fill="#D4AF37">SELECTED BUILDS ONLINE</tspan></text>
+    <text x="832" y="404" text-anchor="end" fill="#D4AF37" font-size="10" filter="url(#glow)"><animate attributeName="opacity" values="1;.35;1" dur="1.5s" repeatCount="indefinite"/>● ACTIVE</text>
+  </g>
 </svg>
