@@ -2,11 +2,7 @@
 
 ## `01 / DEVELOPER WORKSTATION`
 
-<p align="center">
-  <img src="https://github.com/amrrish27/amrrish27/blob/main/assets/pet-full.webp" width="300" alt="Amrrish mascot" />
-</p>
-
-<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — developer workstation" />
+<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — Kali developer workstation" />
 
 <br />
 
@@ -16,17 +12,7 @@
 
 ## `02 / SELECTED WORK`
 
-> **01 — FOUNDERFLOW** · `FastAPI` · `Python` · `scikit-learn`  
-> Startup-exit classification and ML decision support.  
-> [Open repository →](https://github.com/amrrish27/FounderFlow)
-
-> **02 — RATEFLUENCER** · `React` · `TypeScript` · `AI`  
-> Creator trend intelligence, content workflows and scoring.  
-> [Open repository →](https://github.com/amrrish27/viral-mode)
-
-> **03 — SELLORA AI** · `React` · `Supabase` · `Gemini`  
-> AI sales workflows for leads, conversations and analytics.  
-> [Open repository →](https://github.com/amrrish27/sales-nova-ai)
+<img src="./assets/selected-work.svg" width="100%" alt="Selected work — Kali terminal" />
 
 <br />
 
