@@ -1,27 +1,33 @@
-<h2 align="center">⚡ AMRRISH ROSHAN — DEVELOPER WORKSTATION</h2>
-<p align="center"><sub>FULL-STACK · AI · BACKEND · PRODUCT ENGINEERING</sub></p>
+<div align="center">
 
-<p align="center">
-  <img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan animated developer workstation" />
-</p>
+## `01 / DEVELOPER WORKSTATION`
 
-<h3 align="center">◈ SELECTED WORK</h3>
-<p align="center"><sub>Three projects. One connected system.</sub></p>
+<img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — developer workstation with full-body mascot" />
 
-<p align="center">
-  <img src="./assets/selected-work.svg" width="100%" alt="Three selected projects connected around the full-body mascot" />
-</p>
+<br />
 
-<h3 align="center">◈ TECHNOLOGY LOADOUT</h3>
-<p align="center"><sub>Core stack / live index</sub></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=900&color=D4AF37&center=true&vCenter=true&width=900&lines=FULL-STACK+DEVELOPER;AI+BUILDER;BACKEND+ENGINEER;BUILDING+INTELLIGENT+PRODUCTS" alt="Animated developer roles" />
 
-<p align="center">
-  <img src="./assets/loadout-v2.svg" width="100%" alt="Animated technology loadout" />
-</p>
+<br />
 
-<h3 align="center">◈ CURRENT MODE</h3>
-<p align="center"><sub>BUILD · CREATE · AUTOMATE · SHIP</sub></p>
+## `02 / SELECTED WORK`
 
-<p align="center">
-  <img src="./assets/footer-terminal.svg" width="100%" alt="Animated developer footer" />
-</p>
+<img src="./assets/selected-work.svg" width="100%" alt="Three selected projects connected by a project graph" />
+
+<br />
+
+## `03 / TECHNOLOGY LOADOUT`
+
+<img src="./assets/loadout-v2.svg" width="100%" alt="Technology loadout" />
+
+<br />
+
+## `04 / CURRENT MODE`
+
+`BUILD` &nbsp;·&nbsp; `CREATE` &nbsp;·&nbsp; `AUTOMATE` &nbsp;·&nbsp; `SHIP`
+
+<br /><br />
+
+<img src="./assets/footer-terminal.svg" width="100%" alt="Animated developer footer" />
+
+</div>
