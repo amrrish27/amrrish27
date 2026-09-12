@@ -7,13 +7,15 @@
 <br />
 
 <a href="https://www.linkedin.com/in/m-amrrish-roshan-701172381/" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://cdn.simpleicons.org/linkedin/D4AF37" width="30" height="30" alt="LinkedIn" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/amrrish27" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/D4AF37" width="30" height="30" alt="GitHub" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:amrrishroshan27@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-8B1E1E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://cdn.simpleicons.org/gmail/D4AF37" width="30" height="30" alt="Email" />
 </a>
 
 <br /><br />
