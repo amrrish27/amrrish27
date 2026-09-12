@@ -2,10 +2,9 @@
 
 ## `01 / DEVELOPER WORKSTATION`
 
-<!-- Add your own full-body pet image manually here:
-     1. Upload it to assets/ as `pet-full.png`
-     2. Use: <img src="./assets/pet-full.png" width="280" alt="Mascot" />
--->
+<p align="center"> 
+  <img src="./assets/pet-full.webp" width="300" alt="Amrrish mascot" /> 
+</p>
 
 <img src="./assets/terminal-hero.svg" width="100%" alt="Amrrish Roshan — developer workstation" />
 
