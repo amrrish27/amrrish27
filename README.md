@@ -12,7 +12,7 @@
 
 <br /><br />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express,python,fastapi,mongodb,mysql,firebase,supabase,docker,aws,git,github&perline=16" alt="Technology stack" />
+<img src="./assets/loadout.svg" width="100%" alt="Animated technology loadout" />
 
 <br /><br />
 
