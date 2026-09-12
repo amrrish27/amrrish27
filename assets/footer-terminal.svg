@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal session footer</title>
+  <desc id="desc">A compact terminal closing the profile session with Amrrish Roshan's build and security workflow.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090c11"/><stop offset="1" stop-color="#11101a"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#4d7e72"/><stop offset=".5" stop-color="#715d93"/><stop offset="1" stop-color="#4e7581"/></linearGradient>
+  </defs>
+  <rect width="1200" height="190" rx="16" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="188" rx="15" fill="none" stroke="#65707c" stroke-opacity=".35"/><circle cx="25" cy="24" r="4" fill="#b5525b"/><circle cx="41" cy="24" r="4" fill="#b4974d"/><circle cx="57" cy="24" r="4" fill="#4e9275"/><text x="600" y="28" text-anchor="middle" fill="#687481" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2">SESSION / PROFILE</text><path d="M0 45H1200" stroke="#606a76" stroke-opacity=".28"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><text x="38" y="81" fill="#77b29d" font-size="13">amrrish@kali</text><text x="142" y="81" fill="#657080" font-size="13">:</text><text x="152" y="81" fill="#8e79b3" font-size="13">~</text><text x="164" y="81" fill="#89939f" font-size="13">$ sync --knowledge --ship</text><text x="38" y="113" fill="#9ba5af" font-size="12">[ok] artifacts committed  ·  attack surface reviewed  ·  next question queued</text><text x="38" y="150" fill="#77b29d" font-size="13">amrrish@kali</text><text x="142" y="150" fill="#657080" font-size="13">:</text><text x="152" y="150" fill="#8e79b3" font-size="13">~</text><text x="164" y="150" fill="#89939f" font-size="13">$ exit</text><text x="1144" y="150" text-anchor="end" fill="#d3d8de" font-size="13" font-weight="600" letter-spacing="2">BUILD · BREAK · DEBUG · SECURE</text></g>
+  <rect x="38" y="171" width="1124" height="2" fill="url(#rule)" opacity=".65"/>
+</svg>
